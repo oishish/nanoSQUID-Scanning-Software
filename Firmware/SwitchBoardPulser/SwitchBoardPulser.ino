@@ -1,5 +1,5 @@
-int en = 9;
-int sel = 10;
+int en = 6;
+int sel = 7;
 int onTime = 5;
 bool is_grounded;
 int t0;
